@@ -36,7 +36,7 @@ Fake job postings are a growing threat to job seekers, often leading to scams or
 
 ## 🚀 Getting Started
 
-### 🔧 Installation
+### 🔧 Installation 
 ```bash
 git clone https://github.com/neo-ux/fake-job-detector.git
 cd fake-job-detector
