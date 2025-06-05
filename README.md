@@ -38,6 +38,6 @@ Fake job postings are a growing threat to job seekers, often leading to scams or
 
 ### 🔧 Installation
 ```bash
-git clone https://github.com/3-vaibhav/fake-job-detector.git
+git clone https://github.com/neo-ux/fake-job-detector.git
 cd fake-job-detector
 pip install -r requirements.txt
